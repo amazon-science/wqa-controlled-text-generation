@@ -85,4 +85,4 @@ python3 train.py \
 
 
 # Citation
-Todo
+Kumar, Vaibhav, Hana Koorehdavoudi, Masud Moshtaghi, Amita Misra, Ankit Chadha, and Emilio Ferrara. "Controlled text generation with hidden representation transformations." (2023).
